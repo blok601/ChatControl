@@ -1,0 +1,10 @@
+name: ChatControl
+version: 1.0
+main: me.blok601.cc.Main
+description: Chat management plugin for Minecraft servers!
+author: blok601
+commands:
+  lockchat:
+    description: Locks the chat!
+  clearchat:
+    description: Clears the chat!
